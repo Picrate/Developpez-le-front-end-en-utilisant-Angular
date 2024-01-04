@@ -17,13 +17,14 @@ OlympicGames App is a frontend Application for viewing olympic results.
 [Node.js](https://nodejs.org/en) >= v. 20.
 
 [Angular CLI](https://github.com/angular/angular-cli) v. 16.2.12.
+- [Rxjs (Reactive eXtension library for JavaScript)](https://rxjs.dev/)
+- [Ngx-Charts ( Angular Charts Framework)](https://swimlane.gitbook.io/ngx-charts/)
 
 ## Technologies
 - Typescript
 - CSS3 via SASS
 - Angular Framework
-- Rxjs (Reactive eXtension library for JavaScript)
-- Ngx-Charts ( Angular Charts Framework)
+
 
 # Contribute to the project
 
