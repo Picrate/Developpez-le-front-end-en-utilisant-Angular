@@ -22,6 +22,8 @@ OlympicGames App is a frontend Application for viewing olympic results.
 - Typescript
 - CSS3 via SASS
 - Angular Framework
+- Rxjs (Reactive eXtension library for JavaScript)
+- Ngx-Charts ( Angular Charts Framework)
 
 # Contribute to the project
 
